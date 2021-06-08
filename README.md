@@ -1,2 +1,3 @@
-# simple-timer
-Timer in web-page
+### Simple timer
+
+Timer in web-page with 3 buttons excecuting different functions.
